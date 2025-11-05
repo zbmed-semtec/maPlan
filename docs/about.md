@@ -15,12 +15,3 @@ Please make sure that you also cite the individual components depending on what 
 
 ## Funding
 This project is part of the [NFDI4DataScience consortium](https://www.nfdi4datascience.de/) funded by the [German Research Foundation (DFG)](https://www.dfg.de/), project number [460234259](https://gepris.dfg.de/gepris/projekt/460234259), and also part of the [DMP4NFDI](https://base4nfdi.de/projects/dmp4nfdi) NFDI4Base project funded by DFG, project number [521453681](https://gepris.dfg.de/gepris/projekt/521453681).
-
-<hr/>
-<table align="center" style="width:100%">
-  <tr>
-  <td><a href="https://www.zbmed.de/en/legal-notice" target="_blank">Legal notice</a></td>
-  <td><a href="https://www.zbmed.de/en/disclaimer" target="_blank">Disclaimer</a></td>
-  <td><a href="https://www.zbmed.de/en/privacy-policy" target="_blank">Privacy policy</a></td>
-  </tr>
-</table> 

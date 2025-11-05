@@ -1,5 +1,9 @@
 site/
 venv/
+Include/
+Scripts/
+Lib/
+pyvenv.cfg
 
 .DS_Store*
 
