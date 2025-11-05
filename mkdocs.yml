@@ -16,8 +16,8 @@ theme:
   language: en
   palette:
     - scheme: default
-      primary: indigo
-      accent: purple
+      primary: blue
+      accent: purple 
 
 extra:
   social:

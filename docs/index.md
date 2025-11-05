@@ -1,4 +1,4 @@
-# ![maPlan](maPlan_plain_logo.png) maPlan Project 
+# ![maPlan](maPlan_logo.png) maPlan Project 
 
 |              |    |    |
 :---------------------:|:---------------------:|:---------------------:
