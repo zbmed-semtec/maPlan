@@ -30,11 +30,4 @@ You can find more information on SMPs at [maSMPs](https://zbmed-semtec.github.io
 * [Model cards](https://doi.org/10.1145/3287560.3287596)
 * [Datasheets](https://doi.org/10.48550/arXiv.1803.09010)
 
-<hr/>
-<table align="center" style="width:100%">
-  <tr>
-  <td><a href="https://www.zbmed.de/en/legal-notice" target="_blank">Legal notice</a></td>
-  <td><a href="https://www.zbmed.de/en/disclaimer" target="_blank">Disclaimer</a></td>
-  <td><a href="https://www.zbmed.de/en/privacy-policy" target="_blank">Privacy policy</a></td>
-  </tr>
-</table> 
+ 
