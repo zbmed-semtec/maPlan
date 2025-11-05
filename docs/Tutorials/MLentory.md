@@ -2,7 +2,7 @@
 <h1>Introduction to MLentory</h1>
 
 <a href="https://zenodo.org/records/17062651/preview/2025.09.16%20Ki%20Tutorial%20FAIR4ML%20-%20MLentory.pdf?include_deleted=0" target="_blank">
-<img src="mlentory_tutorial.png" alt="">
+<img src="../mlentory_tutorial.png" alt="">
 </a>
 
 If you want to cite this tutorial:
