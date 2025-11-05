@@ -1,0 +1,48 @@
+site_name: maPlan
+site_url: https://zbmed-semtec.github.io/maPlan
+nav:
+    - 'index.md'
+    - Tutorials:
+      - 'Tutorials/ModelCards.md'
+      - 'Tutorials/FAIR4ML.md'
+      - 'Tutorials/MLentory.md'
+    - 'about.md'
+      
+    
+theme:
+  name: material
+  logo: maPlan_plain_logo.png
+
+  language: en
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: purple
+
+extra:
+  social:
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/zbmed-semtec/maPlan
+    
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - admonition
+  - pymdownx.arithmatex:
+      generic: true
+  - footnotes
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.mark
+  - attr_list
+  - md_in_html
+
+plugins:
+  - search
+
+
+  
+

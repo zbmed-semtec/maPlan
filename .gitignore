@@ -1,0 +1,8 @@
+site/
+venv/
+
+.DS_Store*
+
+schema/out/
+
+.ipynb_checkpoints
