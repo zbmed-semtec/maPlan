@@ -8,6 +8,7 @@ Some of our presentations and tutorials are listed here:
 - [Introduction and tutorial on Metadata and SMPs for FAIR research software](https://doi.org/10.5281/zenodo.13799878)
 - [An introduction to machine-actionable Software Management Plans - Practical steps towards FAIR4RS](https://doi.org/10.5281/zenodo.14866848)
 - [Machine-Actionable Metadata for Software and Software Management Plans for NFDI - Presentation](https://doi.org/10.5281/zenodo.8349182)
+- [machine-actionable Software Management Plans](https://doi.org/10.5281/zenodo.11281951)
 
 Additional related material:
 - [An Introduction to Schema.org and JSON-LD](https://doi.org/10.5281/zenodo.14920116)
