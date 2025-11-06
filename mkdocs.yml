@@ -2,9 +2,9 @@ site_name: maPlan - a project by ZB MED
 site_url: https://zbmed-semtec.github.io/maPlan
 nav:
     - 'index.md'
-    - 'data'
-    - 'software'
-    - 'ai_models'
+    - 'data.md'
+    - 'software.md'
+    - 'ai_models.md'
     - 'about.md'
       
     
