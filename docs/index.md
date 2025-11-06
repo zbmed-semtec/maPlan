@@ -14,7 +14,20 @@ To achieve this, we propose a machine-actionable AI Research Plan (maPlan), whic
 
 At the moment, in collaboration with [NFDI4DataScience](https://www.nfdi4datascience.de/) and [DMP4NFDI](https://base4nfdi.de/projects/dmp4nfdi), we are focusing on DMPs and SMPs plus the metadata layer required by them. 
 
-Later we aim at adding elements from Datasheets and Model Cards. 
+### Activities at DMP4NFDI
+
+A maDMP is being under development by DMP4NFDI and our [maSMP](https://zbmed-semtec.github.io/maSMPs) will be later integrated to it. In this way, researchers will have the chance to have in one place a management plan for their data together with the software used to collect it and transform it.
+
+### Activities at NFDI4NFD
+
+A management plan for AI models does not exist yet. The closer to it would be the [Machine Learning model cards]((https://doi.org/10.1145/3287560.3287596)). Despite being intially defined for Machine Learning, they work well for Deep Learning and Generative AI (e.g., Large Language Models). We have started with awaraness and outreach on the subject, as they are not yet well adopted.
+
+In addition to ML Model Cards, [Datasheet Cards](https://doi.org/10.48550/arXiv.1803.09010) are also used in AI approaches, to document the data used for training and/or evaluation. Once we have the first integrated DMP+SMP template in DMP4NFDI, we will proceed to extend it so it also includes elements from Datasheet Cards. 
+
+## Related projects in NFDI4DS
+
+[In-silico protocols for AI reproducibility](https://zbmed-semtec.github.io/in-silico-protocols-4ML/) in another project part of NFDI4DS. While maPlan focuses on basic aspected relevant to DMP+SMP activities, in-silico protocols aim at representing the whole AI workflow, from pre-processing to deployment, with rich metadata, so it can be used as a first layer to improve and assess reproducibility. In-silico protocols scope regarding metadata and tools is more comprenhensive that the one from maPlan. maPlan metadata schemas wil reused in in-silico protocols as needed.
+
 
 __DMPS__
 You can find more information on DMPs at [DMP4NFDI](https://base4nfdi.de/projects/dmp4nfdi) and the [Research Data Management Organiser (RDMO)](https://rdmorganiser.github.io/)

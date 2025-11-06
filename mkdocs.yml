@@ -2,10 +2,9 @@ site_name: maPlan - a project by ZB MED
 site_url: https://zbmed-semtec.github.io/maPlan
 nav:
     - 'index.md'
-    - Tutorials:
-      - 'Tutorials/ModelCards.md'
-      - 'Tutorials/FAIR4ML.md'
-      - 'Tutorials/MLentory.md'
+    - 'data'
+    - 'software'
+    - 'ai_models'
     - 'about.md'
       
     
